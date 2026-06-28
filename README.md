@@ -10,5 +10,5 @@ Papers within this repository include:
 ### A Bayesian hierarchical model for spatial compositional data with zeros and missing values
 *Submitted to Spatial Statistics* LINK
 
-### A Bayesian hierarchical mixture model for classifying compositional data with structural zeros
-*Submitted to Computational Statistics & Data Analysis* LINK
+--### A Bayesian hierarchical mixture model for classifying compositional data with structural zeros
+--*Submitted to Computational Statistics & Data Analysis* LINK
